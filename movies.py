@@ -30,7 +30,7 @@ monster = media.Movie("Monsters Inc.",
                       "https://www.youtube.com/watch?v=cvOQeozL4S0")
 
 cloudy = media.Movie("Couldy with a chance of meat balls",
-                     "Foad from the sky",
+                     "Food from the sky",
                      "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Cloudy_with_a_chance_of_meatballs_theataposter.jpg/220px-Cloudy_with_a_chance_of_meatballs_theataposter.jpg",
                      "https://www.youtube.com/watch?v=3xuCL6DSBA4")
 
